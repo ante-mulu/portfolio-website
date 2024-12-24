@@ -4,7 +4,11 @@
 		"url": "/"
 	},
 	{
-		"name": "Posts",
+		"name": "Expertise",
+		"url": "/expertise"
+	},
+	{
+		"name": "Blog",
 		"url": "/posts"
 	},
 	{
@@ -14,5 +18,14 @@
 	{
 		"name": "About",
 		"url": "/about"
+	},
+	{
+		"name": "Certifications",
+		"url": "/about"
+	},
+	{
+		"name": "Contact",
+		"url": "/contact"
 	}
+
 ]

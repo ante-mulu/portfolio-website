@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Odoo Module Development",
+        "description": "Expertise in creating and customizing Odoo modules for specific business needs.",
+        "image": "/assets/images/skills/odoo-module-development.png",
+        "url": "https://www.odoo.com"
+    },
+	{
+		"name": "Odoo Functional Training",
+		"description": "Comprehensive training in Odoo's functional modules, including CRM, Sales, Inventory, and Accounting, to optimize business processes.",
+		"image": "/assets/images/skills/odoo-functional-training.jpg",
+		"url": "https://www.odoo.com"
+	},
+    {
+        "name": "Odoo Configuration",
+        "description": "Proficient in configuring Odoo for various industries, including CRM, Inventory, and Accounting.",
+        "image": "/assets/images/skills/odoo-configuration.png",
+        "url": "https://www.odoo.com/documentation"
+    },
+    {
+        "name": "Python Programming",
+        "description": "Strong knowledge of Python for backend development, automation, and integration tasks.",
+        "image": "/assets/images/skills/python-programming.png",
+        "url": "https://www.python.org"
+    },
+    {
+        "name": "Odoo API Integration",
+        "description": "Experience in integrating third-party APIs with Odoo using XML-RPC and RESTful services.",
+        "image": "/assets/images/skills/odoo-api-integration.png",
+        "url": "https://www.odoo.com/documentation/16.0/developer/reference/api.html"
+    },
+    {
+        "name": "Database Management",
+        "description": "Skilled in managing and optimizing PostgreSQL databases for Odoo applications.",
+        "image": "/assets/images/skills/database-management.png",
+        "url": "https://www.postgresql.org"
+    },
+    {
+        "name": "Odoo Website Development",
+        "description": "Capable of developing custom website themes and functionalities using Odoo CMS and QWeb.",
+        "image": "/assets/images/skills/odoo-website-development.png",
+        "url": "https://www.odoo.com/documentation/16.0/developer/howtos/themes.html"
+    }
+]
